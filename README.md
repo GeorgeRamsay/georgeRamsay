@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I’m George, a Full-Stack Developer passionate about leveraging my skills to collaborate effectively, communicate clearly, and contribute to the success of agile development teams.
 
-### Currently, I am working as a Full Stack Developer at The University of Auckland ###
+### Currently, I am working as a Full Stack Developer for The University of Auckland ###
 
 I am part of a team developing an innovative web application designed to enhance daily life for individuals with Parkinson’s. We expand existing functionalities, implement new features based on client requirements, and continuously refine the solution to maximize its impact. Our tech stack includes React, TypeScript, and .NET C#, ensuring a robust and scalable system.
 
