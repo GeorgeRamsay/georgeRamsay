@@ -21,7 +21,6 @@ Hi, I’m George, a Full-Stack Developer passionate about leveraging my skills t
 
 I am part of a team developing an innovative web application designed to enhance daily life for individuals with Parkinson’s. We expand existing functionalities, implement new features based on client requirements, and continuously refine the solution to maximize its impact. Our tech stack includes React, TypeScript, and .NET C#, ensuring a robust and scalable system.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GeorgeRamsay&theme=onedark&title=Commit,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
